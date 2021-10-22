@@ -1,8 +1,8 @@
-var accessCode1 = "A";
-var accessCode2 = "B";
-var accessCode3 = "C";
-var accessCode4 = "D";
-var accessCode5 = "E";
+var accessCode1 = "adorable representative m.c for youth";
+var accessCode2 = "kim namjoon";
+var accessCode3 = "jungkook";
+var accessCode4 = "no more dreams";
+var accessCode5 = "v";
 
 const Engine = Matter.Engine;
 const World = Matter.World;
@@ -144,11 +144,11 @@ function draw() {
 
   //Quiz Average Level
   if(gameState === "avglevel"){
-    accessCode1 = "V"
-    accessCode2 = "W"
-    accessCode3 = "X"
-    accessCode4 = "Y"
-    accessCode5 = "Z"
+    accessCode1 = "rm"
+    accessCode2 = "jin"
+    accessCode3 = "177"
+    accessCode4 = "day dream"
+    accessCode5 = "jimin"
     clear();
     background(bg2);
     flag = 1;
@@ -178,11 +178,11 @@ function draw() {
 
  //Quiz Pro Level
   if(gameState === "prolevel"){
-    accessCode1 = "1"
-    accessCode2 = "2"
-    accessCode3 = "3"
-    accessCode4 = "4"
-    accessCode5 = "5"
+    accessCode1 = "j-hope"
+    accessCode2 = "2010"
+    accessCode3 = "230"
+    accessCode4 = "i need you"
+    accessCode5 = "jimin"
     clear();
     background(bg2);
     flag = 1;
